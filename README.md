@@ -1,5 +1,6 @@
-# palpite-joanderson
- Guardadom dados em uma planilha online. 
+# Palpite-Joanderson
+
+Guardado dados em uma planilha online.
 
 Início
 Pré-requisitos:
